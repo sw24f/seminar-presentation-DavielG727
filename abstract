@@ -1,0 +1,7 @@
+Daviel Garcia
+
+This paper explores David Donoho’s seminal paper, "50 Years of Data Science," which reflects on the evolution and future of data science as a distinct discipline. Donoho examines the historical interplay between statistics and computer science, highlighting how advancements in computation, exploratory data analysis, and real-world applications have shaped the field. Central to the paper is the concept of "Greater Data Science," a six-domain framework that includes data preparation, representation, modeling, visualization, and the science of data science itself. Donoho argues for integrating statistical rigor with modern computational tools to address the challenges of large-scale data analysis, reproducibility, and ethics. This work emphasizes the need for an interdisciplinary approach to education and practice, making a compelling case for recognizing data science as a standalone domain. The paper will summarize these insights and look into the six-domain framework in detail. 
+
+Donoho, D. (2017). 50 years of data science. Journal of Computational and Graphical Statistics, 26(4), 745-766.
+
+https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734#d1e296
